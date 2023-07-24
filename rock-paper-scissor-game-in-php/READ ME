@@ -1,8 +1,9 @@
 This directory is for rock-paper-scissor game I made in php. It is a basic project mainly for learning purposes at beginning phases,
 and doesnot involve complex or advanced php and other web technologies.
 Concepts Used:
-Model-View-Controller, Request-Response Cycle (HTTP Methods - GET, POST, REQUEST), Hashing function (used for security), Functions,
-Arrays, Control Expressions and Flow, HTML Forms, Loops, Basic CSS styles, and some preset Php functions like random_int() etc.
+Model-View-Controller, Request-Response Cycle (HTTP Methods - GET, POST, REQUEST), Language Constructs, Making and Linking Libraries,
+Hashing function (used for security), Functions, Arrays, Control Structures and Flow, HTML Forms, Loops, Basic CSS styles, 
+and some preset Php functions like random_int() etc.
 Feel free to modify as much as it would need to suit your wishes.
 Files:
 index.php  -  Main/Starter webpage with links to login and game. The game.php link here is for purpose of demo only.
