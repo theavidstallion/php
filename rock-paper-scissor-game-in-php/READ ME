@@ -1,3 +1,16 @@
-This directory is for rock-paper-scissor game I made in php. It is a basic project, and doesnot involve complex or advanced php and
-other web technologies.
-Feel free to modify as much as it would suit your wishes.
+This directory is for rock-paper-scissor game I made in php. It is a basic project mainly for learning purposes at beginning phases,
+and doesnot involve complex or advanced php and other web technologies.
+Concepts Used:
+Model-View-Controller, Request-Response Cycle (HTTP Methods - GET, POST, REQUEST), Hashing function (used for security), Functions,
+Arrays, Control Expressions and Flow, HTML Forms, Loops, Basic CSS styles, and some preset Php functions like random_int() etc.
+Feel free to modify as much as it would need to suit your wishes.
+Files:
+index.php  -  Main/Starter webpage with links to login and game. The game.php link here is for purpose of demo only.
+login.php  -  The web app asks for credentials, for now, only password needs to be correct as it is in server, username can be anything.
+game.php  -  After successful login, the web app takes user to the game page where he can play the game, apart from three selection
+             options of rock, paper, and scissor, you can also input the option "Test", that will display all possible inputs and outputs
+             that will ensure the credibility of game.
+bootstrap.php  -  A file dedicated to bootstrap linking bootstrap to the styles.css file.
+styles.css  -  File dedicated to style the webpages, it has used both CSS and Bootstrap.
+
+(All files should must be in same folder) 
